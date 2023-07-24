@@ -11,7 +11,8 @@ A project made with MPI, OpenMP and CUDA on Linux
   Due to the fact of 8 cores, we parallel this project to be much faster, comparing running sequentially.
 
 # Compile:
-  First need to compile it within the terminal, using command line: make
+  First extract the "Common.zip" to this folder.
+  Then, you need to compile it within the terminal, using command line: make
   Afterwards, should be a 'project' file to run the program.
 
 # Running:
